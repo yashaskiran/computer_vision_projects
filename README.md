@@ -1,7 +1,7 @@
 # computer_vision_projects
 Advanced computer vision systems for defense operations, featuring a neuromorphic event-based pipeline for high-speed counter-UAS tracking and a deep learning framework for robust object detection and classification.
 
-# Defense-Grade Computer Vision Pipelines
+# Computer Vision Pipelines
 
 An advanced computer vision repository focused on aerospace defense and tactical situational awareness. This project implements two core capabilities designed for edge deployment in high-stakes environments: a neuromorphic event-based pipeline for high-speed counter-Unmanned Aerial Systems (c-UAS) and a robust deep learning architecture for object detection and classification.
 
