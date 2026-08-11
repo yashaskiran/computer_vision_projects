@@ -22,6 +22,8 @@ A mission-critical framework engineered to identify, isolate, and classify tacti
 *   **Core Focus:** High-precision multi-class classification utilizing deep convolutional architectures.
 *   **Key Capabilities:** Optimized to balance inference speed and precision-recall metrics, minimizing false-negative rates in target identification under varied environmental conditions (lighting, occlusion, scale).
 *   **Tech Stack:** Python, TensorFlow / Keras, OpenCV, scikit-image.
+  <img width="1489" height="798" alt="image" src="https://github.com/user-attachments/assets/291f5c0f-45c1-4a64-ad21-10819888b8bf" />
+
 
 ---
 
